@@ -22,4 +22,5 @@ protected:
 
 
 	float Distance;
+	FName Name;
 };
