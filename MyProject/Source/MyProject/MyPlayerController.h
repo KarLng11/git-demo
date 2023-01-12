@@ -13,7 +13,7 @@ UCLASS()
 class MYPROJECT_API AMyPlayerController : public APlayerController
 {
 	GENERATED_BODY()
-
+	
 public:
 
 	virtual void BeginPlay()override;
