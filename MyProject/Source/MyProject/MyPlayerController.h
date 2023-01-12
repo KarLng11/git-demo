@@ -17,5 +17,9 @@ class MYPROJECT_API AMyPlayerController : public APlayerController
 public:
 
 	virtual void BeginPlay()override;
-	
+
+protected:
+
+
+	float Distance;
 };
