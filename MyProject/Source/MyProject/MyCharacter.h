@@ -29,4 +29,7 @@ public:
 	UPROPERTY(BlueprintReadWrite, Category = Attributes)
 		FName Name;
 
+	UPROPERTY(BlueprintReadWrite, Category = Attributes)
+		FName WeaponName;
+
 };
